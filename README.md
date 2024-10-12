@@ -41,4 +41,4 @@ The project demonstrates effective use of React.js for component-based developme
 
 ## Live Demo
 
-You can access a live version of the project [here]().
+You can access a live version of the project [here](https://praveen-unsplash-clone-reactjs.netlify.app/).
